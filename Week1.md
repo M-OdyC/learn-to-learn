@@ -14,6 +14,7 @@ The Pomodoro technique consists on getting rid of all distractions and study foc
 
 ## Repetition
 Is through repetition that you'll remember what you studied. However, is not through overwhelmingly repeating. Instead, you should space your repetition over days and weeks.
+There's known to be 4 slots of short time memory in the brain. The short memory acts like a not-so-good blackboard, while the long-term memory acts like an HD or storage.
 
 ## Sleep
 Surprisingly or not, sleeping is not a waste of time after all. It helps your brain to build neural connections and wash away toxic substances.
